@@ -8,4 +8,4 @@ Durante el curso actual (22 - 23) he realizado cursos en **OpenWebinars**, por l
 
 ## Gustos y aficiones :heartbeat:
 
-Durante la realización de ambos ciclos he ido aprendiendo muchas cosas y lo que más me gusta es el diseño de redes, páginas web, despliegue de servidores y crear código principalmente en Python.
+Durante la realización de ambos ciclos he ido aprendiendo muchas cosas y lo que más me gusta es el diseño de redes, páginas web, despliegue de servidores y su administración y crear código principalmente en Python.
